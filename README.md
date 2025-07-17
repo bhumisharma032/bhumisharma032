@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/code.gif" alt="Code Animation Banner" width="100%" />
 </p>
 
 <p align="center">
