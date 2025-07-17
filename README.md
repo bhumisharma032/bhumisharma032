@@ -43,11 +43,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhumisharma032/bhumisharma032/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ## 💡 Today’s Thought
 
