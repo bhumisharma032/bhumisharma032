@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fcc0db57861819.59f7c09b8d205.gif" alt="AI Tech Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/06/f3/8c/06f38c5dd67f911fc20f9f4bfcd02f0f.gif" alt="Dev Desk Banner" width="100%" />
 </p>
 
 <p align="center">
