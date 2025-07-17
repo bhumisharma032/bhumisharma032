@@ -1,24 +1,70 @@
-Hi there 👋 I'm Bhumi Sharma
-✨ Aspiring Software Engineer | AI/ML Enthusiast | Tech Explorer ✨
+<p align="center">
+  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
+</p>
 
-🎓 Computer Science Engineering @ Rajasthan College of Engineering for Women (2022-2026)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bhumi+Sharma;An+AI+%26+Web+Development+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-💻 Skills: Python | Java | C++ | ML | AI | APIs | Automation
+<p align="center">
+  <a href="mailto:bhumisharma032@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bhumi-sharma-032" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-🔭 Projects:
+---
 
-Jarvis – AI Voice Assistant
+### 👩‍💻 About Me
 
-Heart Attack Prediction
+🎓 Final-year CSE student at Rajasthan College of Engineering for Women (CGPA: 9.08)  
+🧠 Interested in **AI, Machine Learning**, and **Full Stack Development**  
+🧪 Researcher & Intern at Edureka | Published paper on Fake News Detection  
+💡 Curious, consistent learner aiming to make real-world impact through technology  
 
-AI WhatsApp Chat Responder
+---
 
-🌱 Currently Learning: Advanced Machine Learning, Cloud Computing
+### 🌟 Featured Projects
 
-📄 Research Paper: Fake News Detection Using Machine Learning (Published)
+#### 🔹 [Heart Disease Prediction App](https://github.com/bhumisharma032/heart-disease-prediction)  
+**Tech:** Python | Tkinter | Sklearn | Pandas  
+🫀 GUI-based tool to predict risk of heart disease using ML models
 
-📫 Reach me at: sbhumi032@gmail.com
+#### 🔹 [Jarvis – Voice Controlled AI Assistant](https://github.com/bhumisharma032/jarvis)  
+**Tech:** Python | SpeechRecognition | Pyttsx3 | PyAutoGUI | APIs  
+🎙️ Desktop assistant to perform tasks like search, jokes, play YouTube, and more
 
-💼 LinkedIn: linkedin.com/in/bhumi-sharma-90276726b
+#### 🔹 [Fake News Detection](https://github.com/bhumisharma032/fake-news-detection)  
+**Tech:** Python | Sklearn | NLP | CountVectorizer  
+📰 Detects misinformation using ML classification models
 
-⚡ Fun Fact: I love combining AI with automation to solve daily problems!
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhumisharma032/bhumisharma032/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 💡 Today’s Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder" alt="Quote of the Day" />
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,java,cpp,nodejs,express,mongodb,git,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+```bash
+Languages     : Python, Java, C++, JavaScript
+Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap
+ML Tools      : Scikit-learn, Pandas, Matplotlib, Tkinter
+Tools & IDEs  : Git, GitHub, VS Code, Jupyter, OpenAI, PyAutoGUI
