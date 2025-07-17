@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/code.gif" alt="Code Animation Banner" width="100%" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fcc0db57861819.59f7c09b8d205.gif" alt="AI Tech Banner" width="100%" />
 </p>
 
 <p align="center">
